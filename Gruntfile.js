@@ -4,7 +4,7 @@
 // # Globbing
 // for performance reasons we're only matching one level down:
 // 'test/spec/{,*/}*.js'
-// use this if you want to recursively match all subfolders:
+// use this if you want to recursively match all sub folders:
 // 'test/spec/**/*.js'
 
 module.exports = function (grunt) {
