@@ -1,4 +1,4 @@
-# River.IO Javascipt Client  [![Build Status](https://travis-ci.org/javrasya/river.io.svg)](https://travis-ci.org/javrasya/river.io)
+# River.IO Javascipt Client  [![Build Status](https://travis-ci.org/javrasya/river.io-javascript_client.svg?branch=master)](https://travis-ci.org/javrasya/river.io-javascript_client)
 
 
 RiverIO has javascript client, which you can do some RiverIO actions. It also provides hooking before and after transition. This means, anything custom can be done before the transition approved. This makes user more flexible.
