@@ -1,0 +1,17 @@
+{
+    "name": "river.io.javascript_client",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "*",
+        "bootstrap-sass-official": "*",
+        "modernizr": "*",
+        "requirejs": "*",
+        "jquery": "*",
+        "jquery.bbq": "*",
+        "humps": "*",
+        "jquery-migrate": "*",
+        "font-awesome": "3.2.1",
+        "underscore": "1.7.0"
+    },
+    "devDependencies": {}
+}
